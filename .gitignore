@@ -1,0 +1,143 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.launch
+
+# STS
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.springBeansDependents
+.springSettings/
+.spring
+bin/
+
+# VS Code
+.vscode/
+.history/
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+spring.log
+*.log
+
+# IntelliJ IDEA
+*.iml
+.idea/
+.idea/**/*
+out/
+*.ipr
+*.iws
+
+# Bytecode
+*.class
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Sensitive files
+.env
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+
+# Specific to Eclipse IDE
+.metadata
+.classpath
+.project
+.settings
+bin/
+tmp/
+
+# Compiled Java classes
+*.class
+*.jar
+*.war
+*.ear
+
+# Packages
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS-specific and IDE-specific files
+.DS_Store
+Thumbs.db
+
+# System files
+*.log
+*.cache
+*.tmp
+*.pid
+
+# Dependency directory
+**/target/
+
+# Spring Boot specific
+spring.log
+*.db
+*.h2.db
+*.mv.db
+*.trace.db
+*.properties
+*.yaml
+*.yml
+
+# Local environment files
+.env
+
+# Node specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Lock files
+package-lock.json
+yarn.lock
+
+wget*
